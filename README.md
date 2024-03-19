@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## Afraid I'm not very stylistically imaginative for profiles!
+
+But putting this up here as proof I completed the intro to git course.
+
 <!--
 **dbudgell-84/dbudgell-84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
